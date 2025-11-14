@@ -1,4 +1,4 @@
-<img width="330" height="672" alt="image" src="https://github.com/user-attachments/assets/c225dab3-25da-49dd-b585-950fc73116cd" /># MadShop UI (Flutter)
+# MadShop UI (Flutter)
 
 Этот проект представляет собой мобильное приложение, реализующее пользовательский интерфейс онлайн-магазина. Разработка велась с акцентом на вёрстку экранов, навигацию и базовые принципы UI/UX.
 
@@ -68,7 +68,6 @@
 <img width="194" height="396" alt="image" src="https://github.com/user-attachments/assets/5a786485-6603-4cc4-bf42-f9aa5fcbb0f3" />
 <img width="194" height="396" alt="image" src="https://github.com/user-attachments/assets/a7b56486-12c5-4a9a-82ab-6197ad7e999a" />
 <img width="194" height="396" alt="image" src="https://github.com/user-attachments/assets/9dda6d06-ee39-449d-aa71-d42498358055" />
-<img width="194" height="396" alt="image" src="https://github.com/user-attachments/assets/24391cd8-17cd-4996-a763-b72ace99fa67" />
 
 ---
 
